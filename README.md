@@ -16,5 +16,12 @@ Before you begin, ensure you have the following installed:
 ```sh
 git clone https://github.com/basselsaadeh/memoireProject.git
 cd memoireProject
+```
 
+### 2. Install the node-modules
+npm install
+cd client
+npm install
 
+### 2. Run the project on dev
+npm start dev
